@@ -1,0 +1,113 @@
+body{
+
+
+    background-color:black;
+}
+.akbarr{
+    color: white;
+    
+}
+.font{
+
+    font-style: italic;
+ color: white;
+}
+
+#pixel{
+
+ font-size: 20px;
+ color: white
+ 
+}
+ 
+.rem{
+
+    font-style: italic;
+    color: white;
+}
+
+*{
+text-align: center;
+ font-size: 20px;
+} 
+ 
+
+.fronttt {
+  font-family: "Caveat", cursive; 
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style:  normal;
+   
+  } 
+
+  #front2{
+color: white;
+ background-color: cornflowerblue;
+
+
+  }
+
+  #warna{
+ color: white;
+
+
+ 
+  }
+
+.gambar{
+ width: 500px;
+margin-left: 10px;
+margin-top: 20px;
+
+}
+
+
+#gambar2{
+
+border: 10px solid white;
+
+}
+
+
+
+#biru{
+
+    background-color: blue;
+  padding: 20px;
+  margin-top: 10px;
+}
+ 
+#merah{
+
+    background-color: red;
+  height: 20px;
+  margin-top: 0%;
+ 
+    text-align: center;
+}
+
+
+
+
+.flag{
+border: solid red;
+background-color: red;
+
+
+
+}
+
+.flag > div {
+background-color: white;
+border: solid white;
+margin-top: 50px;
+height: 60px;
+
+} 
+
+
+
+
+
+
+
